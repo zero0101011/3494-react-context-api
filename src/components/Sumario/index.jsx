@@ -8,7 +8,7 @@ const Sumario = () => {
 
   return (
     <div className="d-flex flex-column gap-3 sumario">
-      <ResumoCompra/>
+      <ResumoCompra />
       <div className="d-flex flex-column flex-md-row gap-2 mx-1 mx-lg-0 justify-content-between justify-content-md-evelyn">
         <Botao
           variant="tertiary"
